@@ -1,7 +1,9 @@
-Circuito Modular de Carril – Descripción del Proyecto
+# Circuito Modular de Carril 
+
+## - Descripción del Proyecto
 Este proyecto consiste en el diseño de un circuito modular formado por piezas encajables que representan distintos tramos de pista. El objetivo es construir circuitos personalizados mediante la combinación de elementos estandarizados. Cada módulo ha sido diseñado con precisión para asegurar una conexión perfecta, manteniendo siempre el ancho del carril en 37.3 cm, lo que garantiza compatibilidad y fluidez en el ensamblaje.
 
-Tipos de Piezas
+## Tipos de Piezas
 El sistema cuenta con varias piezas base:
 
 Recta Corta (RectaCorta):
@@ -25,8 +27,8 @@ Longitud: 1620 mm
 Ancho: 373 mm
 Diseñado para permitir el paso de un carril sobre otro o facilitar transiciones.
 
-Conectividad
+## Conectividad
 Cada pieza cuenta con conectores identificados (por ejemplo, S1, S2, C1, CO1) que aseguran la alineación y fijación adecuada en el montaje.
 
-Archivo CSV
+## Archivo CSV
 Toda la información de las piezas se gestiona desde un archivo circuito.csv
